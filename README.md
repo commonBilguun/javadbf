@@ -6,7 +6,7 @@ Some of header parameters are skipped and can't write to it. Only DBF7 file writ
 
 Usage example:
 
-```
+```java
 // let us create field definitions first
 // we will go for 3 fields
 
